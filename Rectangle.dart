@@ -1,3 +1,4 @@
+// Exercise #2 - Using optional parameters
 import 'dart:math';
 
 class Rectangle {
